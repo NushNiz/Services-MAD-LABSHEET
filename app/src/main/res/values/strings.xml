@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">LadSheet_Services</string>
+    <string name="button">START</string>
+    <string name="button2">STOP</string>
+    <string name="btnStop">STOP</string>
+    <string name="btnStart">START</string>
+</resources>
